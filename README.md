@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @romangazi121
+# Hi there! 👋 I'm @Roman
 
 👀 I’m interested in:  
 - Flutter app development 🚀  
